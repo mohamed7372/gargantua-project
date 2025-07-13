@@ -1,0 +1,152 @@
+{
+    "navbar": {
+        "home": "Accueil",
+        "fibre": "Concept fibre",
+        "energy": "Concept energy",
+        "contact": "Contact",
+        "devis": "Demander un devis",
+        "fr": "FR",
+        "en": "EN",
+        "conceptFibre": "Concept Fibre"
+    },
+    "hero": {
+        "title": "Gargantua Project – Ingénierie & Infrastructures du futur",
+        "subtitle": "Holding spécialisée dans le déploiement de réseaux fibre optique et de bornes de recharge pour véhicules électriques.",
+        "devis": "Demander un devis",
+        "contact": "Nous contacter",
+        "project": "Plus de 100 projets de déploiement réussis. ",
+        "stats": {
+            "experience": "d'expérience en fibre optique",
+            "interventions": "Interventions",
+            "creation": "Année de création ",
+            "satisfaction": "Taux de Satisfaction",
+            "years": "ans",
+            "territoire": "sur tout le territoire français",
+            "operateur": "Des principaux opértaeurs Télécoms",
+            "partners": "Partenaire"
+        }
+    },
+    "field": {
+        "title": "Nos filiales",
+        "point-1": "Réseaux FTTH – D1, D2, tirage aérien",
+        "point-2": "Zones ZMD & ZTD",
+        "point-3": "Partenariats avec les grands opérateurs",
+        "point-4": "Études et conception d’infrastructures IRVE",
+        "point-5": "Déploiement de bornes de recharge",
+        "point-6": "Solutions sur mesure pour collectivités, entreprises et privés",
+        "show": "Voir la page"
+    },
+    "why": {
+        "title": "Pourquoi nous faire confiance ?",
+        "point-1": "Interventions rapides",
+        "point-2": "Équipe expérimentée",
+        "point-3": "Partenariats solides",
+        "fibre": {
+            "title": "Pourquoi nous faire confiance ?",
+            "sub-title": "Pourquoi choisir notre entreprise ?",
+            "description": "Forts de notre expérience et de notre savoir-faire, nous sommes le partenaire idéal pour accompagner vos projets fibre optique avec efficacité, réactivité et expertise.",
+            "contact": "Nous contacter",
+            "list": {
+                "title-1": "Intervention rapide et efficace",
+                "description-1": "Nous nous engageons à respecter vos délais en assurant des interventions rapides et de haute qualité sur tous vos projets.",
+                "title-2": "Équipe expérimentée",
+                "description-2": "Nos techniciens et ingénieurs disposent de plus de 12 ans d’expérience dans le domaine de la fibre optique et des réseaux télécoms.",
+                "title-3": "Partenariat avec les grands opérateurs",
+                "description-3": "Nous collaborons avec les principaux opérateurs télécoms, garantissant des standards élevés de fiabilité et de performance.",
+                "title-4": " Réactivité et accompagnement projet",
+                "description-4": "Nous restons disponibles à chaque étape pour vous conseiller, ajuster les solutions et assurer un suivi personnalisé de votre projet."
+            }
+        }
+    },
+    "service": {
+        "title": "Nos Services",
+
+        "fibre": {
+            "title-1": "Études et ingénierie",
+            "description-1": "Analyse des infrastructures existantes, conception de solutions fibre adaptées à vos besoins.",
+            "title-2": "Déploiement fibre optique (D1, D2, D3)",
+            "description-2": "Installation complète depuis les réseaux principaux jusqu'aux immeubles et logements.",
+            "title-3": "Raccordement abonnés",
+            "description-3": "Mise en service rapide et sécurisée de la fibre optique chez vos clients.",
+            "title-4": "Maintenance et dépannage",
+            "description-4": "Suivi, entretien et interventions rapides pour assurer la qualité du service.",
+            "title-5": "Audit et expertise technique",
+            "description-5": "Vérifications, diagnostics et conseils pour optimiser vos réseaux.",
+            "devis": "Demander un devis",
+            "last-card": "Besoin d'un service personnalisé ?"
+        }
+    },
+    "about": {
+        "title": "À propos de nous",
+        "sub-title": "Que faisons-nous ?",
+        "description-1": "Fondée en 2013, Gargantua Project est une entreprise basée à Bezons, Val d'Oise.",
+        "description-2": "Nous accompagnons les acteurs publics et privés dans la réalisation de projets techniques à haute valeur ajoutée",
+        "description-3": "Nous intervenons sur toutes les étapes du déploiement FIBRE avec une expertise particulière sur la phase D2 (Immeuble)",
+        "description-4": "Réactivité et accompagnement de projets",
+        "point-1": "plus de 12 ans d'expérience",
+        "point-2": "Spécialistes D2 (immeuble)",
+        "point-3": "Solutions sur mesure pour collectivités et entreprises"
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "sub-title-1": "Vous avez un projet ?",
+        "sub-title-2": "Nous serions ravis de vous aider.",
+        "description": "Vous avez un projet ou besoin d'informations ? Notre équipe expérimentée est à votre disposition pour vous accompagner.",
+        "location": "27 PARC DE LA CALARDE 95500 GONESSE",
+        "phone": "06 98 91 04 03 / 06 59 95 32 29",
+        "mail": "conceptfibres@gmail.com",
+        "fullname": "Nom et prénom",
+        "phone": "Numéro de téléphone",
+        "email": "Adresse e-mail",
+        "message": "Message",
+        "message-placeholder": "Décrivez votre besoin ou votre projet",
+        "send": "Envoyer le message",
+        "address": "27 Parc de la Calarde 95500 Gognesse"
+    },
+    "language": {
+        "en": "Anglais",
+        "fr": "Français"
+    },
+    "conceptFibre": {
+        "title": "Concept Fibre",
+        "aboutTitle": "À Propos de Concept Fibre",
+        "aboutText": "Concept Fibre est notre approche innovante de la technologie de fibre optique, conçue pour répondre aux demandes croissantes de connectivité moderne. Nos solutions fournissent des connexions rapides et fiables pour les applications résidentielles et commerciales.",
+        "missionText": "Notre mission est de fournir des solutions de fibre optique de pointe qui transforment la façon dont les gens se connectent, travaillent et vivent à l'ère numérique.",
+        "featuresTitle": "Caractéristiques Principales",
+        "feature1": "Capacité de bande passante ultra-élevée",
+        "feature2": "Performance à faible latence",
+        "feature3": "Infrastructure pérenne",
+        "feature4": "Options de déploiement évolutives",
+        "feature5": "Technologie économe en énergie",
+        "contactTitle": "Contactez-nous",
+        "contactText": "Vous souhaitez en savoir plus sur Concept Fibre ? Contactez notre équipe pour discuter de la façon dont nos solutions peuvent bénéficier à votre organisation.",
+        "contactButton": "Nous Contacter"
+    },
+    "footer": {
+        "home": "Accueil",
+        "fibre": "Concept fibre",
+        "energy": "Concept energy",
+        "contact": "Contact",
+        "project": "Gargantua Project",
+        "copy-right": "Copyright",
+        "rights": "Tous droits réservés",
+        "privacy": "Politique de confidentialité",
+        "terms": "Conditions d'utilisation"
+    },
+    "project": {
+        "title": "Nos Réalisations",
+        "description": "Nous avons eu le privilège de collaborer avec des opérateurs et des clients prestigieux sur des projets d’envergure dans le domaine de la fibre optique.",
+        "": "",
+        "": "",
+        "": "",
+        "": ""
+    },
+    "energy": {
+        "title": "Nos Réalisations",
+        "description": "Nous avons eu le privilège de collaborer avec des opérateurs et des clients prestigieux sur des projets d’envergure dans le domaine de la fibre optique.",
+        "": "",
+        "": "",
+        "": "",
+        "": ""
+    }
+}

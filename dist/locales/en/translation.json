@@ -1,0 +1,144 @@
+{
+    "navbar": {
+        "home": "Welcome",
+        "fibre": "Fiber concept",
+        "energy": "Energy concept",
+        "contact": "Contact",
+        "devis": "Request a quote",
+        "fr": "Fr",
+        "en": "IN",
+        "conceptFibre": "Fiber concept"
+    },
+    "hero": {
+        "title": "Gargantua Project - Engineering & infrastructure of the future",
+        "subtitle": "Holding specializing in the deployment of fiber optic networks and charging stations for electric vehicles.",
+        "devis": "Request a quote",
+        "contact": "Contact us",
+        "project": "Over 100 successful deployment projects. ",
+        "stats": {
+            "experience": "From fiber optic experience",
+            "interventions": "Interventions",
+            "creation": "Year of creation ",
+            "satisfaction": "Satisfaction rate",
+            "years": "years",
+            "territoire": "throughout French territory",
+            "operateur": "Main telecom operators",
+            "partners": "Partner"
+        }
+    },
+    "field": {
+        "title": "Our subsidiaries",
+        "point-1": "FTTH - D1, D2 networks, air prints",
+        "point-2": "ZMD & ZTD zones",
+        "point-3": "Partnerships with major operators",
+        "point-4": "IRVE Infrastructure Studies and Design",
+        "point-5": "Deployment of charging stations",
+        "point-6": "Tailor -made solutions for communities, companies and private",
+        "show": "See the page"
+    },
+    "why": {
+        "title": "Why trust us?",
+        "point-1": "Rapid interventions",
+        "point-2": "Experienced team",
+        "point-3": "Solid partnerships",
+        "fibre": {
+            "title": "Why trust us?",
+            "sub-title": "Why choose our business?",
+            "description": "With our experience and know-how, we are the ideal partner to support your fiber optics projects with efficiency, responsiveness and expertise.",
+            "contact": "Contact us",
+            "list": {
+                "title-1": "Quick and efficient intervention",
+                "description-1": "We undertake to meet your deadlines by ensuring quick and high quality interventions on all your projects.",
+                "title-2": "Experienced team",
+                "description-2": "Our technicians and engineers have more than 12 years of experience in the field of optical fiber and telecom networks.",
+                "title-3": "Partnership with major operators",
+                "description-3": "We collaborate with the main telecom operators, guaranteeing high reliability and performance standards.",
+                "title-4": " Reactivity and project support",
+                "description-4": "We remain available at each step to advise you, adjust solutions and ensure personalized follow -up of your project."
+            }
+        }
+    },
+    "service": {
+        "title": "Our services",
+        "fibre": {
+            "title-1": "Studies and engineering",
+            "description-1": "Analysis of existing infrastructure, design of fiber solutions adapted to your needs.",
+            "title-2": "Optical fiber deployment (D1, D2, D3)",
+            "description-2": "Complete installation from the main networks to buildings and accommodation.",
+            "title-3": "Subscriber connection",
+            "description-3": "Quick and secure commissioning of optical fiber at your customers.",
+            "title-4": "Maintenance and troubleshooting",
+            "description-4": "Fast monitoring, maintenance and interventions to ensure the quality of the service.",
+            "title-5": "Audit and technical expertise",
+            "description-5": "Checks, diagnostics and advice to optimize your networks.",
+            "devis": "Request a quote",
+            "last-card": "Need a personalized service?"
+        }
+    },
+    "about": {
+        "title": "About Us",
+        "sub-title": "What are we doing?",
+        "description-1": "Founded in 2013, Gargantua Project is a company based in Bezons, Val d'Oise.",
+        "description-2": "We support public and private actors in the realization of high value -added technical projects",
+        "description-3": "We operate on all stages of fiber deployment with particular expertise on phase D2 (building)",
+        "description-4": "Reactivity and project support",
+        "point-1": "Over 12 years of experience",
+        "point-2": "D2 specialists (building)",
+        "point-3": "Tailor -made solutions for communities and businesses"
+    },
+    "contact": {
+        "title": "Contact us",
+        "sub-title-1": "Do you have a project?",
+        "sub-title-2": "We would be delighted to help you.",
+        "description": "Do you have a project or need information? ",
+        "location": "27 Calarde park 95500 Gonesse",
+        "phone": "Phone number",
+        "mail": "conceptfibers@gmail.com",
+        "fullname": "First and last name",
+        "email": "E-mail address",
+        "message": "Message",
+        "message-placeholder": "Describe your need or project",
+        "send": "Send the message",
+        "address": "27 CALARDE PARC 95500 CURN"
+    },
+    "language": {
+        "en": "English",
+        "fr": "French"
+    },
+    "conceptFibre": {
+        "title": "Fiber concept",
+        "aboutTitle": "About Fiber Concept",
+        "aboutText": "Concept Fiber is our innovative approach to fiber optic technology, designed to meet growing requests for modern connectivity. ",
+        "missionText": "Our mission is to provide advanced optical fiber solutions that transform the way people connect, work and live in the digital age.",
+        "featuresTitle": "Main characteristics",
+        "feature1": "Ultra-elevated bandwidth capacity",
+        "feature2": "Low latency performance",
+        "feature3": "Perennial infrastructure",
+        "feature4": "Evolutionary deployment options",
+        "feature5": "Energy efficient technology",
+        "contactTitle": "Contact us",
+        "contactText": "Do you want to know more about Concept Fiber? ",
+        "contactButton": "Contact us"
+    },
+    "footer": {
+        "home": "Welcome",
+        "fibre": "Fiber concept",
+        "energy": "Energy concept",
+        "contact": "Contact",
+        "project": "Gargantua Project",
+        "copy-right": "Copyright",
+        "rights": "All rights reserved",
+        "privacy": "Privacy Policy",
+        "terms": "Conditions of use"
+    },
+    "project": {
+        "title": "Our achievements",
+        "description": "We had the privilege of collaborating with operators and prestigious customers on major projects in the field of optical fiber.",
+        "": ""
+    },
+    "energy": {
+        "title": "Our achievements",
+        "description": "We had the privilege of collaborating with operators and prestigious customers on major projects in the field of optical fiber.",
+        "": ""
+    }
+}
